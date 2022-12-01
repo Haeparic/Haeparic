@@ -24,8 +24,7 @@
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haeparic&show_icons=true&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeparic&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haeparic&show_icons=true&theme=swift) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haeparic&layout=compact)
 
   
 <!--
